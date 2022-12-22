@@ -8,5 +8,5 @@ for i in range(k,0,-1):
     else:
         print(f"{x}x^{i}",end=" ")
 print(rd(-100,100),end=" ")
-rd=open('dz4Base.txt', 'w')
-rd.write(k)
+# rd=open('dz4Base.txt', 'w')
+# rd.write(k)
